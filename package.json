@@ -4,6 +4,20 @@
   "private": true,
   "author": "pollycybernetics@gmail.com",
   "description": "A simple helpful robot for your Company",
+  
+   "keywords": [
+    "hubot",
+    "plugin",
+    "scripts",
+    "campfire",
+    "bot",
+    "robot"
+  ],
+
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/Pilinja/pollyhubot"
+  },  
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
